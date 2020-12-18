@@ -129,6 +129,10 @@
   },
   "defaultProject": "PinterProject",
   "cli": {
+<<<<<<< HEAD
     "analytics": "ad98c2fb-94ae-4013-8cd7-0aca6d984f74"
+=======
+    "analytics": "334d2fcc-8553-4ae2-b1f5-5dcad378f002"
+>>>>>>> d7ab2645e71bd56ab6dfabbb906cc2e5aa341fcf
   }
 }
