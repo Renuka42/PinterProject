@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "PinterProject"
+  "defaultProject": "PinterProject",
+  "cli": {
+    "analytics": "ad98c2fb-94ae-4013-8cd7-0aca6d984f74"
+  }
 }
